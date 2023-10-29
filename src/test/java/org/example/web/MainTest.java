@@ -10,9 +10,7 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
 public class MainTest {
-
     WebDriver driver;
-
     @BeforeMethod
     public void setUp() {
         System.setProperty("webdriver.chrome.driver", "src/test/java/org/example/web/chromedriver.exe");
