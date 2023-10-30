@@ -19,3 +19,5 @@ Sart Appium with "appium" cmd
 List Appium drivers "appium driver list --installed"
 List emulators: "emulator -list-avds"
 Start an emulator: "emulators -avd [emulator ID]
+
+j
