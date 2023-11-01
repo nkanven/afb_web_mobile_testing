@@ -18,6 +18,7 @@ install android emulator: sdkmanager.bat "platform-tools" "platforms;android-33"
 Sart Appium with "appium" cmd
 List Appium drivers "appium driver list --installed"
 List emulators: "emulator -list-avds"
+Get device ID: "adb devices"
 Start an emulator: "emulators -avd [emulator ID]
 
 j
